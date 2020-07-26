@@ -1,2 +1,2 @@
 master conflict text
-modified by conflict34
+modified by conflict2
