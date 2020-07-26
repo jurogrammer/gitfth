@@ -1,2 +1,2 @@
 master conflict text
-modified by conflict2
+this is rebase test
