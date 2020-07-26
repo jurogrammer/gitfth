@@ -1,2 +1,2 @@
 master conflict text
-branch conflict text!
+modified by conflict1
