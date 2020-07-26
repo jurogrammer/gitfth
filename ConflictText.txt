@@ -1,2 +1,2 @@
 master conflict text
-second Branch Conflict line
+branch conflict text!
